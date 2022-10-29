@@ -1,0 +1,3 @@
+- 👋 Hi, I’m daytime
+- 👀 I’m interested in hacking and web development
+- 🌱 I’m currently learning css and html
